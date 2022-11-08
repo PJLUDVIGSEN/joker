@@ -21,8 +21,9 @@
     "url": "https://github.com/PJLUDVIGSEN/joker/issues"
   },
   "homepage": "https://github.com/PJLUDVIGSEN/joker#readme"
-  {
-  "description": "example",
-  "type": "module",
-  } 
 }
+
+{
+"description": "example",
+"type": "module",
+} 
