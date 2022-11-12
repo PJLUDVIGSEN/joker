@@ -37,9 +37,15 @@
     "joker": "^0.9.0"
   },
   "lint-staged": {
-    "*.js": [
-      "eslint --cache --fix",
-      "prettier --write"
-    ]
-  }
+  "*.js": [
+    "eslint --fix",
+    "prettier --write"
+  ],
+  "*.html": [
+    "prettier --write"
+  ],
+  "*.scss": [
+    "prettier --write"
+  ]
+}
 }
